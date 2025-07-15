@@ -11,3 +11,4 @@
 - coffee
 - plum wine
 - tea with milk
+- thai milk tea
